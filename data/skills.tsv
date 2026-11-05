@@ -1,0 +1,1636 @@
+0	Ataque básico
+1	Basic Skill
+2	Sword Mastery
+3	Two-Handed Sword Mastery
+4	Increase HP Recovery
+5	Bash
+6	Provoke
+7	Magnum Break
+8	Endure
+9	Increase SP Recovery
+10	Sight
+11	Napalm Beat
+12	Safety Wall
+13	Soul Strike
+14	Cold Bolt
+15	Frost Diver
+16	Stone Curse
+17	Fire Ball
+18	Fire Wall
+19	Fire Bolt
+20	Lightning Bolt
+21	Thunderstorm
+22	Divine Protection
+23	Demon Bane
+24	Ruwach
+25	Pneuma
+26	Teleport
+27	Warp Portal
+28	Heal
+29	Increase AGI
+30	Decrease AGI
+31	Aqua Benedicta
+32	Signum Crucis
+33	Angelus
+34	Blessing
+35	Cure
+36	Enlarge Weight Limit
+37	Discount
+38	Overcharge
+39	Pushcart
+40	Item Appraisal
+41	Vending
+42	Mammonite
+43	Owl's Eye
+44	Vulture's Eye
+45	Improve Concentration
+46	Double Strafe
+47	Arrow Shower
+48	Double Attack
+49	Improve Dodge
+50	Steal
+51	Hiding
+52	Envenom
+53	Detoxify
+54	Resurrection
+55	Spear Mastery
+56	Pierce
+57	Brandish Spear
+58	Spear Stab
+59	Spear Boomerang
+60	Twohand Quicken
+61	Counter Attack
+62	Bowling Bash
+63	Peco Peco Riding
+64	Cavalier Mastery
+65	Mace Mastery
+66	Impositio Manus
+67	Suffragium
+68	Aspersio
+69	B.S. Sacramenti
+70	Sanctuary
+71	Slow Poison
+72	Status Recovery
+73	Kyrie Eleison
+74	Magnificat
+75	Gloria
+76	Lex Divina
+77	Turn Undead
+78	Lex Aeterna
+79	Magnus Exorcismus
+80	Fire Pillar
+81	Sightrasher
+83	Meteor Storm
+84	Jupitel Thunder
+85	Lord of Vermilion
+86	Water Ball
+87	Ice Wall
+88	Frost Nova
+89	Storm Gust
+90	Earth Spike
+91	Heaven's Drive
+92	Quagmire
+93	Sense
+94	Iron Tempering
+95	Steel Tempering
+96	Enchanted Stone Craft
+97	Oridecon Research
+98	Smith Dagger
+99	Smith Sword
+100	Smith Two-handed Sword
+101	Smith Axe
+102	Smith Mace
+103	Smith Knucklebrace
+104	Smith Spear
+105	Hilt Binding
+106	Ore Discovery
+107	Weaponry Research
+108	Weapon Repair
+109	Skin Tempering
+110	Hammer Fall
+111	Adrenaline Rush
+112	Weapon Perfection
+113	Power-Thrust
+114	Maximize Power
+115	Skid Trap
+116	Land Mine
+117	Ankle Snare
+118	Shockwave Trap
+119	Sandman
+120	Flasher
+121	Freezing Trap
+122	Blast Mine
+123	Claymore Trap
+124	Remove Trap
+125	Talkie Box
+126	Beast Bane
+127	Falconry Mastery
+128	Steel Crow
+129	Blitz Beat
+130	Detect
+131	Spring Trap
+132	Righthand Mastery
+133	Lefthand Mastery
+134	Katar Mastery
+135	Cloaking
+136	Sonic Blow
+137	Grimtooth
+138	Enchant Poison
+139	Poison React
+140	Venom Dust
+141	Venom Splasher
+142	First Aid
+143	Play Dead
+144	Moving HP-Recovery
+145	Fatal Blow
+146	Auto Berserk
+147	Arrow Crafting
+148	Arrow Repel
+149	Sand Attack
+150	Back Slide
+151	Find Stone
+152	Stone Fling
+153	Cart Revolution
+154	Change Cart
+155	Crazy Uproar
+156	Holy Light
+157	Energy Coat
+158	Piercing Attack
+159	Spirit Destruction
+160	Stand off attack
+161	Attribute Change
+162	Water Attribute Change
+163	Earth Attribute Change
+164	Fire Attribute Change
+165	Wind Attribute Change
+166	Poison Attribute Change
+167	Holy Attribute Change
+168	Shadow Attribute Change
+169	Ghost Attribute Change
+170	Defense disregard attack
+171	Multi-stage Attack
+172	Guided Attack
+173	Suicide bombing
+174	Splash attack
+175	Suicide
+176	Poison Attack
+177	Blind Attack
+178	Silence Attack
+179	Stun Attack
+180	Petrify Attack
+181	Curse Attack
+182	Sleep attack
+183	Random Attack
+184	Water Attribute Attack
+185	Earth Attribute Attack
+186	Fire Attribute Attack
+187	Wind Attribute Attack
+188	Poison Attribute Attack
+189	Holy Attribute Attack
+190	Shadow Attribute Attack
+191	Ghost Attribute Attack
+192	Demon Shock Attack
+193	Metamorphosis
+194	Provocation
+195	Smoking
+196	Follower Summons
+197	Emotion
+198	Transformation
+199	Sucking Blood
+200	Energy Drain
+201	Keeping
+202	Dark Breath
+203	Dark Blessing
+204	Barrier
+205	Defender
+206	Lick
+207	Hallucination
+208	Rebirth
+209	Monster Summons
+210	Gank
+211	Mug
+212	Back Stab
+213	Stalk
+214	Sightless Mind
+215	Divest Weapon
+216	Divest Shield
+217	Divest Armor
+218	Divest Helm
+219	Snatch
+220	Scribble
+221	Piece
+222	Remover
+223	Slyness
+224	Haggle
+225	Intimidate
+226	Axe Mastery
+227	Potion Research
+228	Prepare Potion
+229	Bomb
+230	Acid Terror
+231	Aid Potion
+232	Summon Flora
+233	Summon Marine Sphere
+234	Alchemical Weapon
+235	Synthesized Shield
+236	Synthetic Armor
+237	Biochemical Helm
+238	Bioethics
+243	Call Homunculus
+244	Vaporize
+247	Homunculus Resurrection
+248	Faith
+249	Guard
+250	Smite
+251	Shield Boomerang
+252	Shield Reflect
+253	Holy Cross
+254	Grand Cross
+255	Sacrifice
+256	Resistant Souls
+257	Defending Aura
+258	Spear Quicken
+259	Iron Fists
+260	Spiritual Cadence
+261	Summon Spirit Sphere
+262	Absorb Spirit Sphere
+263	Raging Trifecta Blow
+264	Snap
+265	Dodge
+266	Occult Impaction
+267	Throw Spirit Sphere
+268	Mental Strength
+269	Root
+270	Fury
+271	Asura Strike
+272	Raging Quadruple Blow
+273	Raging Thrust
+274	Study
+275	Cast Cancel
+276	Magic Rod
+277	Spell Breaker
+278	Free Cast
+279	Hindsight
+280	Endow Blaze
+281	Endow Tsunami
+282	Endow Tornado
+283	Endow Quake
+284	Dragonology
+285	Volcano
+286	Deluge
+287	Whirlwind
+288	Magnetic Earth
+289	Dispell
+290	Hocus-pocus
+291	Monocell
+292	Class Change
+293	Monster Chant
+294	Grampus Morph
+295	Grim Reaper
+296	Gold Digger
+297	Beastly Hypnosis
+298	Questioning
+299	Gravity
+300	Leveling
+301	Suicide
+302	Rejuvenation
+303	Coma
+304	Amp
+305	Encore
+306	Lullaby
+307	Mental Sensing
+308	Down Tempo
+309	Battle Theme
+310	Harmonic Lick
+311	Classical Pluck
+312	Power Chord
+313	Acoustic Rhythm
+315	Music Lessons
+316	Melody Strike
+317	Unchained Serenade
+318	Unbarring Octave
+319	Perfect Tablature
+320	Impressive Riff
+321	Magic Strings
+322	Song of Lutie
+323	Dance Lessons
+324	Slinging Arrow
+325	Hip Shaker
+326	Dazzler
+327	Focus Ballet
+328	Slow Grace
+329	Lady Luck
+330	Gypsy's Kiss
+331	Random Move
+332	Speed UP
+333	Revenge
+334	I Will Protect You
+335	I Look up to You
+336	I miss You
+337	Throw Tomahawk
+338	Cross of Darkness
+339	Grand cross of Darkness
+340	Soul Strike of Darkness
+341	Darkness Jupitel
+342	Stop
+343	Break weapon
+344	Break armor
+345	Break helm
+346	Break shield
+347	Undead Element Attack
+348	Undead Attribute Change
+349	Power Up
+350	Agility Up
+351	Siege Mode
+352	Recall Slaves
+353	Invisible
+354	Run
+355	Aura Blade
+356	Parrying
+357	Concentration
+358	Relax
+359	Frenzy
+360	Fury
+361	Assumptio
+362	Basilica
+363	Meditatio
+364	Soul Drain
+365	Stave Crasher
+366	Mystical Amplification
+367	Gloria Domini
+368	Martyr's Reckoning
+369	Battle Chant
+370	Raging Palm Strike
+371	Glacier Fist
+372	Chain Crush Combo
+373	Indulge
+374	Soul Exhale
+375	Soul Siphon
+376	Advanced Katar Mastery
+378	Enchant Deadly Poison
+379	Soul Destroyer
+380	Falcon Eyes
+381	Falcon Assault
+382	Focused Arrow Strike
+383	Wind Walker
+384	Shattering Strike
+385	Create Coins
+386	Create Nuggets
+387	Cart Boost
+388	Auto Attack System
+389	Stealth
+390	Counter Instinct
+392	Alchemy
+393	Potion Synthesis
+394	Vulcan Arrow
+395	Sheltering Bliss
+396	Marionette Control
+397	Spiral Pierce
+398	Traumatic Blow
+399	Vital Strike
+400	Napalm Vulcan
+401	Zen
+402	Mind Breaker
+403	Foresight
+404	Blinding Mist
+405	Fiber Lock
+406	Meteor Assault
+407	Create Deadly Poison
+408	Baby
+409	Call Parent
+410	Call Baby
+411	Running
+412	Tornado Stance
+413	Tornado Kick
+414	Heel Drop Stance
+415	Heel Drop
+416	Roundhouse Stance
+417	Roundhouse Kick
+418	Counter Kick Stance
+419	Counter Kick
+420	Tumbling
+421	Flying Kick
+422	Peaceful Break
+423	Happy Break
+424	Kihop
+425	Mild Wind
+426	Taekwon Jump
+427	Feeling the Sun Moon and Stars
+428	Warmth of the Sun
+429	Warmth of the Moon
+430	Warmth of the Stars
+431	Comfort of the Sun
+432	Comfort of the Moon
+433	Comfort of the Stars
+434	Hatred of the Sun Moon and Stars
+435	Anger of the Sun
+436	Anger of the Moon
+437	Anger of the Stars
+438	Blessing of the Sun
+439	Blessing of the Moon
+440	Blessing of the Stars
+441	Demon of the Sun Moon and Stars
+442	Friend of the Sun Moon and Stars
+443	Knowledge of the Sun Moon and Stars
+444	Union of the Sun Moon and Stars
+445	Spirit of the Alchemist
+446	Aid Berserk Potion
+447	Spirit of the Monk
+448	Spirit of the Star Gladiator
+449	Spirit of the Sage
+450	Spirit of the Crusader
+451	Spirit of the Supernovice
+452	Spirit of the Knight
+453	Spirit of the Wizard
+454	Spirit of the Priest
+455	Spirit of the Artist
+456	Spirit of the Rogue
+457	Spirit of the Assasin
+458	Spirit of the Blacksmith
+459	Advanced Adrenaline Rush
+460	Spirit of the Hunter
+461	Spirit of the Soul Linker
+462	Kaizel
+463	Kaahi
+464	Kaupe
+465	Kaite
+466	Kaina
+467	Estin
+468	Estun
+469	Esma
+470	Eswoo
+471	Eske
+472	Eska
+473	Provoke Self
+474	Emotion ON
+475	Preserve
+476	Divest All
+477	Upgrade Weapon
+478	Aid Condensed Potion
+479	Full Protection
+480	Shield Chain
+481	Mana Recharge
+482	Double Casting
+483	Ganbantein
+484	Gravitation Field
+485	Cart Termination
+486	Maximum Power Thrust
+488	Wand of Hermode
+489	Tarot Card of Fate
+490	Acid Demonstration
+491	Plant Cultivation
+492	Weapon Enchantment
+493	Taekwon Mission
+494	Spirit of Rebirth
+495	Onehand Quicken
+496	Twilight Alchemy 1
+497	Twilight Alchemy 2
+498	Twilight Alchemy 3
+499	Beast Strafing
+500	Flip the Coin
+501	Fling
+502	Triple Action
+503	Bulls Eye
+504	Madness Canceller
+505	Adjustment
+506	Increasing Accuracy
+507	Magical Bullet
+508	Cracker
+509	Single Action
+510	Snake Eye
+511	Chain Action
+512	Tracking
+513	Disarm
+514	Piercing Shot
+515	Rapid Shower
+516	Desperado
+517	Gatling Fever
+518	Dust
+519	Full Buster
+520	Spread Attack
+521	Ground Drift
+522	Shuriken Training
+523	Throw Shuriken
+524	Throw Kunai
+525	Throw Huuma Shuriken
+526	Throw Zeny
+527	Improvised Defense
+528	Vanishing Slash
+529	Shadow Leap
+530	Shadow Slash
+531	Cicada Skin Sheeding
+532	Mirror Image
+533	Spirit of the Blade
+534	Crimson Fire Petal
+535	Crimson Fire Formation
+536	Raging Fire Dragon
+537	Spear of Ice
+538	Hidden Water
+539	Ice Meteor
+540	Wind Blade
+541	Lightning Strike of Destruction
+542	Kamaitachi
+543	Soul
+544	Final Strike
+572	SL_DEATHKNIGHT
+573	SL_COLLECTOR
+574	SL_NINJA
+575	SL_GUNNER
+653	Earthquake
+654	Fire Breath
+655	Ice Breath
+656	Thunder Breath
+657	Acid Breath
+658	Darkness Breath
+659	Dragon Fear
+660	Bleeding
+661	Pulse Strike
+662	Hell's Judgement
+663	Wide Silence
+664	Wide Freeze
+665	Wide Bleeding
+666	Wide Petrify
+667	Wide Confusion
+668	Wide Sleep
+669	Wide Sight
+670	Evil Land
+671	Magic Mirror
+672	Slow Cast
+673	Critical Wounds
+674	Expulsion
+675	Stone Skin
+676	Anti Magic
+677	Wide Curse
+678	Wide Stun
+679	Vampire Gift
+680	Wide Soul Drain
+681	Increase Weight Limit R
+682	Talk
+683	Hell Power
+684	Hell Dignity
+685	Invincible
+686	Invincible off
+687	Full Heal
+688	GM Sandman
+689	Party Blessing
+690	Party Increase AGI
+691	Party Assumptio
+692	Cat Cry
+693	Party Flee
+694	Angel's Protection
+695	Summer Night Dream
+697	Reverse Orcish
+698	Christmas Carol
+706	Venom Fog
+707	Millenium Shield 2
+708	Comet 2
+709	Ice Mine
+711	Flame Cross
+712	Pulse Strike 2
+713	Dancing Blade
+714	Dancing Blade Attack
+715	Dark Piercing
+716	Max Pain
+717	Max Pain Attack
+718	Death Summon
+719	Hell Burning
+720	Jack Frost 2
+721	Wide Web
+722	Wide Suck
+723	Storm Gust 2
+724	Fire Storm
+725	Reverberation 2
+726	Reverberation Attack
+727	Lex Aeterna 2
+728	NPC Arrow Storm
+729	NPC Coluceo Heal
+730	Cursed Circle
+731	NPC Dragon Breath
+732	Fatal Menace
+733	NPC Magma Eruption
+734	NPC Magma Eruption Dot Damage
+735	NPC Howling of Mandragora
+736	Psychic Wave
+737	NPC Ray of Genesis
+738	NPC Venom Impress
+739	Cloud Kill
+740	Ignition Break
+741	Phantom Thrust
+742	Poison Buster
+743	Hallucination Walk
+744	Electric Walk
+745	Fire Walk
+747	Leash
+748	Wide Leash
+749	Wide Critical Wounds
+751	Decrease All Stats
+752	Increased Gravity
+753	Damage Heal
+754	Property Immune
+755	Change Location
+756	Wide Bleeding
+757	Wide Silence
+758	Wide Stun
+759	Wide Petrify
+760	Wide Sleep
+761	Wide Curse
+762	Wide Confusion
+763	Wide Freeze
+764	Bleeding
+765	Ice Breath
+768	Hell's Judgement
+769	Rain of Meteor
+770	Ground Drive
+771	NPC_RELIEVE_ON
+772	NPC_RELIEVE_OFF
+776	Deadly Curse
+779	Deadly Curse 2
+780	Cane of evil eye
+783	Killing Aura
+784	RO 20th Anniversary Firecracker
+1001	Charge Attack
+1002	Shrink
+1003	Sonic Acceleration
+1004	Throw Venom Knife
+1005	Close Confine
+1006	Sight Blaster
+1007	Create Elemental Converter
+1008	Elemental Change Water
+1009	Phantasmic Arrow
+1010	Pang Voice
+1011	Wink of Charm
+1012	Unfair Trick
+1013	Greed
+1014	Redemptio
+1015	Ki Translation
+1016	Ki Explosion
+1017	Elemental Change Earth
+1018	Elemental Change Fire
+1019	Elemental Change Wind
+2001	Enchant Blade
+2002	Sonic Wave
+2003	Death Bound
+2004	Hundred Spear
+2005	Wind Cutter
+2006	Ignition Break
+2007	Dragon Training
+2008	Dragon Breath
+2009	Dragon Howling
+2010	Rune Mastery
+2011	Millenium Shield
+2012	Crush Strike
+2013	Refresh
+2014	Giant Growth
+2015	Stone Hard Skin
+2016	Vitality Activation
+2017	Storm Blast
+2018	Fighting Spirit
+2019	Abundance
+2020	Phantom Thrust
+2201	White Imprison
+2202	Soul Expansion
+2203	Frosty Misty
+2204	Jack Frost
+2205	Marsh of Abyss
+2206	Recognized Spell
+2207	Sienna Execrate
+2208	Radius
+2209	Stasis
+2210	Drain Life
+2211	Crimson Rock
+2212	Hell Inferno
+2213	Comet
+2214	Chain Lightning
+2215	Chain Lightning Attack
+2216	Earth Strain
+2217	Tetra Vortex
+2218	Tetra Vortex Fire
+2219	Tetra Vortex Water
+2220	Tetra Vortex Wind
+2221	Tetra Vortex Earth
+2222	Summon Fire Ball
+2223	Summon Lightning Ball
+2224	Summon Water Ball
+2225	Summon Attack Fire
+2226	Summon Attack Wind
+2227	Summon Attack Water
+2228	Summon Attack Earth
+2229	Summon Stone
+2230	Release
+2231	Reading Spellbook
+2232	Freeze Spell
+2021	Venom Impress
+2022	Cross Impact
+2023	Dark Illusion
+2024	Research New Poison
+2025	Create New Poison
+2026	Antidote
+2027	Poisoning Weapon
+2028	Weapon Blocking
+2029	Counter Slash
+2030	Weapon Crush
+2031	Venom Pressure
+2032	Poison Smoke
+2033	Cloaking Exceed
+2034	Phantom Menace
+2035	Hallucination Walk
+2036	Rolling Cutter
+2037	Cross Ripper Slasher
+2038	Judex
+2039	Ancilla
+2040	Adoramus
+2041	Crementia
+2042	Canto Candidus
+2043	Coluceo Heal
+2044	Epiclesis
+2045	Praefatio
+2046	Oratio
+2047	Lauda Agnus
+2048	Lauda Ramus
+2049	Eucharistica
+2050	Renovatio
+2051	Highness Heal
+2052	Clearance
+2053	Expiatio
+2054	Duple Light
+2055	Duple Light Melee
+2056	Duple Light Magic
+2057	Silentium
+2515	Secrament
+2233	Arrow Storm
+2234	Fear Breeze
+2235	Ranger Main
+2236	Aimed Bolt
+2237	Detonator
+2238	Electric Shocker
+2239	Cluster Bomb
+2240	Warg Mastery
+2241	Warg Rider
+2242	Warg Dash
+2243	Warg Strike
+2244	Warg Bite
+2245	Tooth of Warg
+2246	Sensitive Keen
+2247	Camouflage
+2248	Research Trap
+2249	Magenta Trap
+2250	Cobalt Trap
+2251	Maize Trap
+2252	Verdure Trap
+2253	Firing Trap
+2254	Icebound Trap
+2255	Mado License
+2256	Boost Knuckle
+2257	Pile Bunker
+2258	Vulcan Arm
+2259	Flame Launcher
+2260	Cold Slower
+2261	Arm Cannon
+2262	Acceleration
+2263	Hovering
+2264	Front-Side Slide
+2265	Back-Side Slide
+2266	Mainframe Restructure
+2267	Self Destruction
+2268	Shape Shift
+2269	Emergency Cool
+2270	Infrared Scan
+2271	Analyze
+2272	Magnetic Field
+2273	Neutral Barrier
+2274	Stealth Field
+2275	Repair
+2276	Axe Training
+2277	Research Fire/Earth
+2278	Axe Boomerang
+2279	Power Swing
+2280	Axe Tornado
+2281	FAW - Silver Sniper
+2282	FAW - Magic Decoy
+2283	FAW Removal
+2284	Fatal Menace
+2285	Reproduce
+2286	Auto Shadow Spell
+2287	Shadow Form
+2288	Triangle Shot
+2289	Body Painting
+2290	Invisibility
+2291	Deadly Infect
+2292	Masquerade - Enervation
+2293	Masquerade - Gloomy
+2294	Masquerade - Ignorance
+2295	Masquerade - Laziness
+2296	Masquerade - Unlucky
+2297	Masquerade - Weakness
+2298	Strip Accessory
+2299	Man Hole
+2300	Dimension Door
+2301	Chaos Panic
+2302	Maelstrom
+2303	Bloody Lust
+2304	Feint Bomb
+2307	Cannon Spear
+2308	Banishing Point
+2309	Trample
+2310	Shield Press
+2311	Reflect Damage Reduction
+2312	Pinpoint Attack
+2313	Force of Vanguard
+2314	Rage Burst
+2315	Shield Spell
+2316	Exceed Break
+2317	Over Brand
+2318	Prestige
+2319	Banding
+2320	Moon Slasher
+2321	Ray of Genesis
+2322	Piety
+2323	Earth Drive
+2324	Hesperus Lit
+2325	Inspiration
+2519	Overbrand Brandish
+2520	Overbrand Plus Attack
+2326	Dragon Combo
+2327	Sky Net Blow
+2328	Earth Shaker
+2329	Fallen Empire
+2330	Tiger Cannon
+2331	Hell Gate
+2332	Rampage Blaster
+2333	Crescent Elbow
+2334	Cursed Circle
+2335	Lightning Walk
+2336	Knuckle Arrow
+2337	Windmill
+2338	Raising Dragon
+2339	Gentle Touch
+2340	Assimilate Power
+2341	Power Velocity
+2342	Crescent Elbow Autospell
+2343	Gate of Hell
+2344	Gentle Touch - Quiet
+2345	Gentle Touch - Cure
+2346	Gentle Touch - Energy Gain
+2347	Gentle Touch - Change
+2348	Gentle Touch - Revitalize
+2517	Howling of Lion
+2518	Ride In Lightening
+2350	Swing Dance
+2351	Symphony of Lovers
+2352	Moonlit Serenade
+2381	Windmill Rush Attack
+2382	Echo Song
+2383	Harmonize
+2412	Lesson
+2413	Metallic Sound
+2414	Reverberation
+2415	Reverberation Melee
+2416	Reverberation Magic
+2417	Dominion Impulse
+2418	Severe Rainstorm
+2419	Poem of The Netherworld
+2420	Voice of Siren
+2421	Valley of Death
+2422	Deep Sleep Lullaby
+2423	Circle of Nature's Sound
+2424	Improvised Song
+2425	Gloomy Day
+2426	Great Echo
+2427	Song of Mana
+2428	Dance With A Warg
+2429	Sound of Destruction
+2430	Saturday Night Fever
+2431	Lerad's Dew
+2432	Melody of Sink
+2433	Warcry of Beyond
+2434	Unlimited Humming Voice
+2516	Severe Rainstorm Melee
+2443	Fire Walk
+2444	Electric Walk
+2445	Spell Fist
+2446	Earth Grave
+2447	Diamond Dust
+2448	Poison Buster
+2449	Psychic Wave
+2450	Cloud Kill
+2451	Striking
+2452	Warmer
+2453	Vacuum Extreme
+2454	Varetyr Spear
+2455	Arrullo
+2456	Spirit Control
+2457	Summon Fire Spirit Agni
+2458	Summon Water Spirit Aqua
+2459	Summon Wind Spirit Ventus
+2460	Summon Earth Spirit Tera
+2461	Elemental Action
+2462	Four Spirit Analysis
+2463	Spirit Sympathy
+2464	Spirit Recovery
+2465	Fire Insignia
+2466	Water Insignia
+2467	Wind Insignia
+2468	Earth Insignia
+2474	Sword Training
+2475	Cart Remodeling
+2476	Cart Tornado
+2477	Cart Cannon
+2478	Cart Boost
+2479	Thorn Trap
+2480	Blood Sucker
+2481	Spore Explosion
+2482	Wall of Thorns
+2483	Crazy Weed
+2484	Crazy Weed Attack
+2485	Demonic Fire
+2486	Fire Expansion
+2487	Fire Expansion Smoke Powder
+2488	Fire Expansion Tear Gas
+2489	Fire Expansion Acid
+2490	Hell's Plant
+2491	Hell's Plant Attack
+2492	Howling of Mandragora
+2493	Sling Item
+2494	Change Material
+2495	Mix Cooking
+2496	Create Bomb
+2497	Special Pharmacy
+2498	Sling Item Attack
+2533	Odin's Recall
+2534	Return To Eldicastes
+2535	Open Buying Store
+2536	Guardian's Recall
+2537	Odin's Power
+2543	Ray of Protection
+2544	Decorate Cart
+2552	Rich's Coin
+2553	Mass Spiral
+2554	Banishing Buster
+2555	Bind Trap
+2556	Flicker
+2557	Shatter Storm
+2558	Eternal Chain
+2559	Quick Draw Shot
+2560	Crimson Marker
+2561	Fire Dance
+2562	Howling Mine
+2563	Platinum Alter
+2564	Fallen Angel
+2565	Round Trip
+2566	Dragon Tail
+2567	Fire Rain
+2568	Heat Barrel
+2569	Anti-Material Blast
+2570	Slug Shot
+2571	Hammer of God
+2572	Round Trip Plus Attack
+2574	Light of Moon
+2575	Lunar Stance
+2576	Full Moon Kick
+2577	Light of Star
+2578	Star Stance
+2579	New Moon Kick
+2580	Flash Kick
+2581	Star Emperor Advent
+2582	Nova Explosion
+2583	Universe Stance
+2584	Falling Star
+2585	Gravity Control
+2586	Book of Dimension
+2587	Book of Creating Star
+2588	Document of Sun Moon and Star
+2589	Purification of Sun Moon and Star
+2590	Light of Sun
+2591	Sun Stance
+2592	Solar Burst
+2593	Prominence Kick
+2594	Falling Star Attack
+2595	Falling Star Attack 2
+2596	Golem's Soul
+2597	Shadow's Soul
+2598	Falcon's Soul
+2599	Fairy's Soul
+2600	Curse Explosion
+2601	Soul Curse
+2602	Espa
+2603	Esha
+2604	Eswhoo
+2605	Soul Unity
+2606	Soul Division
+2607	Soul Reaper
+2608	Soul Revolution
+2609	Soul Collect
+2610	Soul Explosion
+2611	Soul Energy Research
+2612	Kaute
+3001	Shadow Hiding
+3002	Right Hand Mastery
+3003	Left Hand Mastery
+3004	Cross Slash
+3005	Soul Cutter
+3006	Kunai Explosion
+3007	Kunai Splash
+3008	Rapid Throw
+3009	Swirling Petal
+3010	Makibishi
+3011	Pure Soul
+3012	Illusion - Shadow
+3013	Illusion - Shock
+3014	Illusion - Death
+3015	Fire Charm
+3016	Ice Charm
+3017	Wind Charm
+3018	Earth Charm
+3019	Release Ninja Spell
+3020	Cast Ninja Spell
+3021	Illusion - Bewitch
+3022	16th Night
+3023	Shadow Trampling
+3024	Empty Shadow
+3025	Shadow Warrior
+3026	Distorted Crescent
+3027	Moonlight Fantasy
+3028	Moonlight Fantasy Transition Attack
+3029	Ominous Moonlight
+3031	Snow Flip
+3032	Peony Mamy
+3033	Sadagui
+3034	Sequoia Dust
+3035	Return To Eclage
+3041	Niflheim Recall
+3042	Prontera Recall
+3043	Return To Glast Heim
+3044	Return To Thanatos
+3045	Return To Lighthalzen
+5001	Dark Claw
+5002	Unlimited
+5003	Illusion Doping
+5004	Dragon Breath - Water
+5005	Lux Anima
+5006	Magma Eruption
+5007	Frigg's Song
+5008	Elemental Shield
+5009	Flash Combo
+5010	Emergency Escape
+5011	Offertorium
+5012	Intense Telekinesis
+5013	King's Grace
+5014	Full Throttle
+5015	Magma Eruption Dot Damage
+5018	New Basic Skill
+5019	Bite
+5020	Hide
+5021	Scratch
+5022	Stoop
+5023	Lope
+5024	Spirit Marble
+5025	Power of Land
+5026	Silvervine Stem Spear
+5027	Catnip Powdering
+5028	Catnip Meteor
+5029	Silvervine Root Twist
+5030	Silver Vine Root Twist Attack
+5031	Power of Life
+5032	Scar of Tarou
+5033	Picky Peck
+5034	Picky Peck Double Attack
+5035	Arclouse Dash
+5036	Lunatic Carrot Beat
+5037	Power of Sea
+5038	Tuna Belly
+5039	Tuna Party
+5040	Bunch of Shrimp
+5041	Fresh Shrimp
+5042	Catnip Meteor 2
+5043	Lunatic Carrot Beat 2
+5044	Soul Attack
+5045	Power of Flock
+5046	Spirit of Savage
+5047	Hiss
+5048	Nyang Grass
+5049	Grooming
+5050	Purring
+5051	Tasty Shrimp Party
+5052	Spirit of Life
+5053	Meow Meow
+5054	Spirit of Land
+5055	Chattering
+5056	Spirit of Sea
+5063	Call All Family
+5064	One Forever
+5065	Cheer Up
+5067	Equip Switch
+5068	Skilled Special Singer
+5072	Vituperatum
+5073	Convenio
+5075	Break Through
+5076	Help Angel
+5077	Transcendence
+5078	Reading Spellbook
+5201	Servant Weapon
+5202	Servant Weapon Attack
+5203	Servant Weapon Sign
+5204	Servant Weapon Phantom
+5205	Servant Weapon Demolition
+5206	Charging Pierce
+5207	Two Hand Def
+5208	Hack And Slasher
+5209	Hack And Slasher Attack
+5210	Dragonic Aura
+5211	Madness Crusher
+5212	Vigor
+5213	Storm Slash
+5214	Deadly Projection
+5215	Destructive Hurricane
+5216	Rain Of Crystal
+5217	Mystery Illusion
+5218	Violent Quake
+5219	Violent Quake Attack
+5220	Soul Vulcan Strike
+5221	Strantum Tremor
+5222	All Bloom
+5223	All Bloom Attack
+5224	All Bloom Attack 2
+5225	Crystal Impact
+5226	Crystal Impact Attack
+5227	Tornado Storm
+5228	Two Hand Staff Mastery
+5229	Floral Flare Road
+5230	Astral Strike
+5231	Astral Strike Attack
+5232	Climax
+5233	Rock Down
+5234	Storm Cannon
+5235	Crimson Arrow
+5236	Crimson Arrow Attack
+5237	Frozen Slash
+5238	Powerful Faith
+5239	Firm Faith
+5240	Will Of Faith
+5241	Oleum Sanctum
+5242	Sincere Faith
+5243	Massive Flame Blaster
+5244	Explosion Blaster
+5245	First Brand
+5246	First Faith Power
+5247	Judge
+5248	Second Flame
+5249	Second Faith
+5250	Second Judgement
+5251	Third Punish
+5252	Third Flame Bomb
+5253	Third Consecration
+5254	Third Exorcism Flame
+5255	Guard Stance
+5256	Guardian Shield
+5257	Rebound Shield
+5258	Shield Mastery
+5259	Spear And Sword Mastery
+5260	Attack Stance
+5261	Ultimate Sacrifice
+5262	Holy Shield
+5263	Grand Judgement
+5264	Judgement Cross
+5265	Shield Shooting
+5266	Overslash
+5267	Cross Rain
+5268	Reparatio
+5269	Mediale Votum
+5270	Mace Book Mastery
+5271	Argutus Vita
+5272	Argutus Telum
+5273	Arbitrium
+5274	Arbitrium Attack
+5275	Presens Acies
+5276	Fidus Animus
+5277	Effligo
+5278	Competentia
+5279	Pneumaticus Procella
+5280	Dilectio Heal
+5281	Religio
+5282	Benedictum
+5283	Petitio
+5284	Framen
+5285	Shadow Exceed
+5286	Dancing Knife
+5287	Savage Impact
+5288	Shadow Sense
+5289	Eternal Slash
+5290	Potent Venom
+5291	Shadow Stab
+5292	Impact Crater
+5293	Enchanting Shadow
+5294	Fatal Shadow Crow
+5295	Axe Stomp
+5296	Rush Quake
+5297	Manufacture Machine
+5298	Attack Machine
+5299	Defense Machine
+5300	Two Hand Axe Def
+5301	ABR Mastery
+5302	ABR Battle Warior
+5303	ABR Dual Cannon
+5304	ABR Mother Net
+5305	ABR Infinity
+5306	Destructive Hurricane Climax
+5307	Actified Zone Water Attack
+5308	Actified Zone Ground Attack
+5309	Actified Zone Wind Attack
+5310	Actified Zone Fire Attack
+5311	Dagger And Bow Mastery
+5312	Magic Sword Mastery
+5313	Strip Shadow
+5314	Abyss Dagger
+5315	Unlucky Rush
+5316	Chain Reaction Shot
+5317	From The Abyss
+5318	Abyss Slayer
+5319	Omega Abyss Strike
+5320	Deft Stab
+5321	Abyss Square
+5322	Frenzy Shot
+5323	Advanced Trap
+5324	Wind Sign
+5325	Nature Friendly
+5326	Hawk Rush
+5327	Hawk Mastery
+5328	Calamity Gale
+5329	Hawk Boomerang
+5330	Gale Storm
+5331	Deep Blind Trap
+5332	Solid Trap
+5333	Swift Trap
+5334	Crescive Bolt
+5335	Flame Trap
+5336	Bionic Pharmacy
+5337	Bionics Mastery
+5338	The Whole Protection
+5339	Advance Protection
+5340	Acidified Zone Water
+5341	Acidified Zone Ground
+5342	Acidified Zone Wind
+5343	Acidified Zone Fire
+5344	Wooden Warrior
+5345	Wooden Fairy
+5346	Creeper
+5347	Research Report
+5348	Hell Tree
+5349	Stage Manner
+5350	Retrospection
+5351	Mystic Symphony
+5352	Kvasir Sonata
+5353	Rose Blossom
+5354	Rose Blossom Attack
+5355	Rhythm Shooting
+5356	Metallic Fury
+5357	Sound Blend
+5358	Geffenia Nocturn
+5359	Roki Capriccio
+5360	Ain Rhapsody
+5361	Musical Interlude
+5362	Jawaii Serenade
+5363	Nipelheim Requiem
+5364	Pron March
+5365	Magic Book Mastery
+5366	Spell Enchanting
+5367	Activity Burn
+5368	Increasing Activity
+5369	Diamond Storm
+5370	Lightning Land
+5371	Venom Swamp
+5372	Conflagration
+5373	Terra Drive
+5374	Elemental Spirit Mastery
+5375	Summon Elemental Ardor
+5376	Summon Elemental Diluvio
+5377	Summon Elemental Procella
+5378	Summon Elemental Terremotus
+5379	Summon Elemental Serpens
+5380	Elemental Buster
+5381	Elemental Veil
+5382	Chain Reaction Shot Attack
+5383	From The Abyss Attack
+5384	Wooden Throw Rock
+5385	Wooden Attack
+5386	Hell Howling
+5387	Hell Dusty
+5388	Fairy Dusty
+5389	Elemental Buster Fire
+5390	Elemental Buster Water
+5391	Elemental Buster Wind
+5392	Elemental Buster Ground
+5393	Elemental Buster Poison
+5433	Mystical Creature Mastery
+5434	Commune with Chulho
+5435	Chulho Sonic Claw
+5436	Howling of Chulho
+5437	Hogogong Strike
+5438	Commune with Kisul
+5439	Kisul Water Spraying
+5440	Marine Festival of Kisul
+5441	Sandy Festival of Kisul
+5442	Kisul Rampage
+5443	Commune with Hyunrok
+5444	Colors of Hyunrok
+5445	Hyunrok Breeze
+5446	Hyunrok Cannon
+5447	Temporary Communion
+5448	Blessing of Mystical Creatures
+5401	P.F.I
+5402	Grenade Mastery
+5403	Intensive Aim
+5404	Grenade Fragment
+5405	The Vigilante at Night
+5406	Only One Bullet
+5407	Spiral Shooting
+5408	Magazine for One
+5409	Wild Fire
+5410	Basic Grenade
+5411	Hasty Fire in the Hole
+5412	Grenades Dropping
+5413	Auto Firing Launcher
+5414	Hidden Card
+5415	Mission Bombard
+5416	Talisman Mastery
+5417	Soul Mastery
+5418	Talisman Of Protection
+5419	Talisman Of Warrior
+5420	Talisman Of Magician
+5421	Soul Gathering
+5422	Totem Of Tutelary
+5423	Talisman Of Five Elements
+5424	Talisman Of Soul Stealing
+5425	Exorcism Of Malicious Soul
+5426	Talisman Of Blue Dragon
+5427	Talisman Of White Tiger
+5428	Talisman Of Red Phoenix
+5429	Talisman Of Black Tortoise
+5430	Talisman Of Four Bearing God
+5431	Circle Of Directions And Elementals
+5432	Soul Of Heaven And Earth
+5449	Self Study Tactics
+5450	Self Study Sorcery
+5451	Double Bowling Bash
+5452	Mega Sonic Blow
+5453	Shield Chain Rush
+5454	Spiral Pierce Max
+5455	Meteor Storm Buster
+5456	Jupitel Thunderstorm
+5457	Jack Frost Nova
+5458	Hell's Drive
+5459	Ground Gravitation
+5460	Napalm Vulcan Strike
+5461	Breaking Limit
+5462	Rule Break
+5463	Sky Mastery
+5464	War Book Mastery
+5465	Rising Sun
+5466	Noon Blast
+5467	Sunset Blast
+5468	Rising Moon
+5469	Midnight Kick
+5470	Dawn Break
+5471	Twinkling Galaxy
+5472	Star Burst
+5473	Star Cannon
+5474	All in the Sky
+5475	Enchanting Sky
+5476	Melt Away
+5477	Infiltrate
+5478	Nightmare Erasion
+5479	Mirage
+5480	Shadow Hunting
+5481	Shadow Dance
+5482	Shadow Flash
+5483	Huuma Shuriken - Grasp
+5484	Huuma Shuriken - Construct
+5485	Kunai - Distortion
+5486	Kunai - Rotation
+5487	Kunai - Refraction
+5488	Red Flame Cannon
+5489	Cold Blooded Cannon
+5490	Thundering Cannon
+5491	Golden Dragon Cannon
+5492	Darkening Cannon
+5493	Shadow - Nightmare
+5494	Kunai - Nightmare
+5495	Dark Dragon - Nightmare
+5496	The Vigilante At Night Gun Gatling
+5497	The Vigilante At Night Gun Shotgun
+5499	Four Colors Charm
+5500	Wild Shot
+5501	Midnight Fallen
+5502	Sky Sun
+5503	Sky Moon
+5504	Star Light Kick
+5506	Chulho Battering
+5507	Hyunrok Spirit Power
+5505	Overcoming Crisis
+6001	Dragonic Breath
+6002	Spark Blaster
+6003	Triple Laser
+6004	Mighty Smash
+6005	Explosive Powder
+6006	Mayhemic Thorns
+6502	Dragonic Pierce
+6503	Radiant Spear
+6504	Imperial Cross
+6505	Imperial Pressure
+6506	Rush Strike
+6507	Powerful Swing
+6508	Energy Cannonade
+6509	Mystery Powder
+6510	Dust Explosion
+6512	Hit And Sliding
+6513	Chasing Break
+6514	Chasing Shot
+6516	Energy Conversion
+6511	Cross Slash
+6515	Abyss Flame
+6517	Psychic Stream
+6518	Divinus Flos
+6519	Blazing Flame Blast
+6520	Wild Walk
+6521	Rhythmical Wave
+6522	Abyss Flame Attack
+8001	Healing Touch
+8002	Avoid
+8003	Brain Surgery
+8004	Change
+8005	Castling
+8006	Defense
+8007	Adamantium Skin
+8008	Bloodlust
+8009	Moonlight
+8010	Fleeting Move
+8011	Speed
+8012	S.B.R.44
+8013	Caprice
+8014	Benediction of Chaos
+8015	Instruct
+8016	Bio Explosion
+8018	Summon Legion
+8019	Needle of Paralyze
+8020	Poison Mist
+8021	Pain Killer
+8022	Light of Regene
+8023	Overed Boost
+8024	Eraser Cutter
+8025	Xeno Slasher
+8026	Silent Breeze
+8027	Style Change
+8028	Sonic Claw
+8029	Silver Bain Rush
+8030	Midnight Frenzy
+8031	Steel Horn
+8032	Golden Heel
+8033	Stone Wall
+8034	Holy Pole
+8035	Attack Mode
+8036	Tinder Breaker
+8037	Continual Break Combo
+8038	Eternal Quick Combo
+8039	Magma Flow
+8040	Granitic Armor
+8041	Lava Slide
+8042	Pyroclastic
+8043	Volcanic Ash
+8044	Blast Forge
+8045	Tempering
+8046	Classy Flutter
+8047	Twister Cutter
+8048	Absolute Zephyr
+8049	Brushup Claw
+8050	Blazing And Furious
+8051	The One Fighter Rises
+8052	Polishing Needle
+8053	Toxin Of Mandara
+8054	Needle Stinger
+8055	Licht Gehorn
+8056	Glanzen Spies
+8057	Heilige Pferd
+8058	Goldene Tone
+8059	Blazing Lava
+8201	Bash
+8202	Magnum_Break
+8203	Bowling_Bash
+8204	Parry
+8205	Shield_Reflect
+8206	Frenzy
+8207	Double_Strafe
+8208	Arrow_Shower
+8209	Skid_Trap
+8210	Land_Mine
+8211	Sandman
+8212	Freezing_Trap
+8213	Remove_Trap
+8214	Arrow_Repel
+8215	Focused_Arrow_Strike
+8216	Pierce
+8217	Brandish_Spear
+8218	Spiral_Pierce
+8219	Defending_Aura
+8220	Guard
+8221	Sacrifice
+8222	Magnificat
+8223	Two-Hand_Quicken
+8224	Sight
+8225	Crash
+8226	Regain
+8227	Tender
+8228	Benediction
+8229	Recuperate
+8230	Mental_Cure
+8231	Compress
+8232	Provoke
+8233	Berserk
+8234	Decrease_AGI
+8235	Scapegoat
+8236	Lex_Divina
+8237	Sense
+8238	Kyrie Eleison
+8239	Blessing
+8240	Increase Agility
+8241	Mind Blaster
+8401	Circle of Fire
+8402	Fire Cloak
+8403	Fire Mantle
+8404	Water Screen
+8405	Water Drop
+8406	Water Barrier
+8407	Wind Step
+8408	Wind Curtain
+8409	Zephyr
+8410	Solid Skin
+8411	Stone Shield
+8412	Power of Gaia
+8413	Pyrotechnic
+8414	Heater
+8415	Tropic
+8416	Aqua Play
+8417	Cooler
+8418	Cool Air
+8419	Gust
+8420	Blast
+8421	Wild Storm
+8422	Petrology
+8423	Cursed Soil
+8424	Upheaval
+8425	Fire Arrow
+8426	Fire Bomb
+8427	Fire Bomb Attack
+8428	Fire Wave
+8429	Fire Wave Attack
+8430	Ice Needle
+8431	Water Screw
+8432	Water Screw Attack
+8433	Tidal Weapon
+8434	Wind Slasher
+8435	Hurricane Rage
+8436	Hurricane Rage Attack
+8437	Typhoon Missile
+8438	Typhoon Missile Attack
+8439	Stone Hammer
+8440	Rock Launcher
+8441	Rock Launcher Attack
+8442	Stone Rain
+8443	Flame Technic
+8444	Flame Armor
+8445	Flame Rock
+8446	Cold Force
+8447	Crystal Armor
+8448	Age Of Ice
+8449	Grace Breeze
+8450	Eyes Of Storm
+8451	Storm Wind
+8452	Earth Care
+8453	Strong Protection
+8454	Avalanche
+8455	Deep Poisoning
+8456	Poison Shield
+8457	Deadly Poison
+8601	Battle Buster
+8602	Dual Cannon Fire
+8603	Net Repair
+8604	Net Support
+8605	Infinity Buster
+10000	Official Guild Approval
+10001	Kafra Contract
+10002	Guardian Research
+10003	Strengthen Guardians
+10004	Guild Extension
+10005	Guild's Glory
+10006	Great Leadership
+10007	Glorious Wounds
+10008	Cold Heart
+10009	Sharp Gaze
+10010	Battle Orders
+10011	Regeneration
+10012	Restoration
+10013	Urgent Call
+10014	Permanent Development
+10015	Item Emergency Call
+10016	Guild Storage Expansion
+10017	Charge Shout Flag
+10018	Charge Shout Beating
+10019	Emergency Move
